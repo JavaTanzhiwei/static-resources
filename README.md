@@ -1,2 +1,2 @@
 # static-resources
-博客资源库
+静态资源库
